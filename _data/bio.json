@@ -1,52 +1,40 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Shubham Sahu",
+    "label": "Research Engineer",
+    "picture": "https://ssahu912.github.io/images/dp.png",
+    "email": "shubham912sahu@gmail.com",
+    "phone": "988-684-2542",
+    "website": "https://ssahu912.github.io",
+    "summary": "Research Engineer with 3 years of experience in implementing Software solutions in a fortune 500 company in the knowledge management and manufacturing domains. Researched, designed and delivered technological solutions E2E while interacting with clients directly.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "address": "A-172 Pallavi Nagar",
+      "postalCode": "462026",
+      "city": "Bhopal",
+      "countryCode": "IN",
+      "region": "Madhya Pradesh"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "ssahu912",
+        "url": "http://github.com/ssahu912"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "ssahu912",
+        "url": "http://linkedin.com/in/ssahu912"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "knowledge graphs",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "data science",
       "keywords": [
       ]
     },
@@ -61,109 +49,75 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
+        "Python",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "SpringBoot",
+        "Apollo-GraphQL",
+        "Scikit-Learn",
+        "PyTorch",
+        "Keras",
+        "RASA",
+        "Ampligraph",
+        "Node.js",
+        "Flask",
+        
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
+        "Windows",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "vscode",
+        "Jupyter Notebook",
+        "Intellij",
+        "Docker",
+        "Google CoLab"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "institution": "SRM Institute of Scienece and Technology, Chennai",
+      "area": "Computer Science and Engineering",
+      "studyType": "B.Tech",
+      "startDate": "2014-07-01",
+      "endDate": "2018-05-01",
+      "gpa": "8.95",
       "courses": [
+        "Data Structures",
+        "Algotrithms",
+        "Neural Networks",
+        "Object Oriented Analysis and Design",
+        "Artificial Intelligence",
+        "Speech Recognition"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Siemens Technology and Services Pvt. Ltd.",
+      "position": "Research Engineer",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2018-01-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Develop, Deploy and Maintain Technological solutions for Intelligent Software Foundation",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Implemented Knowledge graph as a solution for project traceability for multiple business units.",
+        "Implemented knowledge graph for knowledge management and created an inner source for the department, to avoid reinventing the wheel.",
+        "Developed, deployed and maintained a platform for manufacturing industry client to access data from multiple data sources, leading to effective cost reduction.",
+        "Developed and deployed 2 projects E2E interacting with the clients directly.",
+        ""
       ]
     }
   ],
   "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
   "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
   ]
 }
